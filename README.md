@@ -29,4 +29,5 @@ I'm interested in collaborating on AI training, data annotation, translation, tr
 
 📫 Let's Connect
 
-- LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/)
+ ### Connect with me
+ [LinkedIn](https://www.linkedin.com/in/isaac-ativie-803380213/)
